@@ -1,4 +1,4 @@
-# sc2-angular
-SteemConnect2 with AngularJS
+# sc2-vue
+SteemConnect2 with Vue JS
 
-Demo: https://steemit.github.io/sc2-angular
+Demo: https://os.shard.cc/sc2-vue
